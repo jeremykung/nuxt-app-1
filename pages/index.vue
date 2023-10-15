@@ -1,7 +1,6 @@
 <template>
     <div>
-        <h2>Title</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, aliquam mollitia? Cum officia nostrum, quibusdam cupiditate velit minus. Veritatis ipsa illum voluptates hic est adipisci dignissimos corrupti iure? Quos, fugiat!</p>
+        <h1>Home</h1>
     </div>
 </template>
 
