@@ -18,7 +18,7 @@
 	async function handleClick() {
 		console.log("getting currency info...")
 		try {
-			const { data } = await useFetch(
+			const response = await useFetch(
 				`/api/currency/${currencyCode.value}`
 			)
 			console.log(response.data.value.currencyData.data)
